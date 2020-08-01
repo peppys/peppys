@@ -1,3 +1,3 @@
 ### Hi, I'm Peppy 👋🏾 --- @peppys
 
-![](./assets/image.svg)
+![](./assets/image.png)
