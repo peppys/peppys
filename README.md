@@ -1,3 +1,3 @@
 ### Hi, I'm Peppy 👋🏾 --- @peppys
 
-<img src="./assets/image.png" width="450px">
+<img src="https://i.imgur.com/R6vISvd.png" width="450px">
