@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: monospace;">
   <img src="https://www.peppysisay.com/img/avatar.png" width="30px;">
   </br>
   <samp>
