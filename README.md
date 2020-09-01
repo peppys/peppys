@@ -1,4 +1,4 @@
-<p align="center" style="font-family: monospace;">
+<p align="center">
   <img src="https://www.peppysisay.com/img/avatar.png" width="30px;">
   </br>
   <samp>
@@ -8,12 +8,17 @@
     <br/>
   </samp>
   </br>
-  <a href="https://www.linkedin.com/in/peppys/" target="_blank">linkedin</a>
+  <a href="https://www.linkedin.com/in/peppys/" target="_blank"><samp>linkedin</samp></a>
   </br>
-  <a href="https://github.com/peppys" target="_blank">github</a>
+  <a href="https://github.com/peppys" target="_blank"><samp>github</samp></a>
   </br>
-  <a href="https://twitter.com/xpeppy" target="_blank">twitter</a>
+  <a href="https://twitter.com/xpeppy" target="_blank"><samp>twiter</samp></a>
   </br>
   </div>
   <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
+  </br>
+  </br>
+  <samp>
+      contact: <a href="mailto:peppysisay@gmail.com">peppysisay@gmail.com</a>
+  </samp>
 </p>
