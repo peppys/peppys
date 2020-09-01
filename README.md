@@ -8,7 +8,7 @@
     <br/>
   </samp>
   </br>
-  <div class="social-links">
+  <div class="social-links" style="text-align: center;">
       <div class="social-link">
           <a href="https://www.linkedin.com/in/peppys/" target="_blank">linkedin</a>
       </div>
