@@ -8,16 +8,12 @@
     <br/>
   </samp>
   </br>
-  <div class="social-links" style="text-align: center;">
-      <div class="social-link">
-          <a href="https://www.linkedin.com/in/peppys/" target="_blank">linkedin</a>
-      </div>
-      <div class="social-link">
-          <a href="https://github.com/peppys" target="_blank">github</a>
-      </div>
-      <div class="social-link">
-          <a href="https://twitter.com/xpeppy" target="_blank">twitter</a>
-      </div>
+  <a href="https://www.linkedin.com/in/peppys/" target="_blank">linkedin</a>
+  </br>
+  <a href="https://github.com/peppys" target="_blank">github</a>
+  </br>
+  <a href="https://twitter.com/xpeppy" target="_blank">twitter</a>
+  </br>
   </div>
   <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
 </p>
