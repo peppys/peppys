@@ -12,7 +12,7 @@
   </br>
   <a href="https://github.com/peppys" target="_blank"><samp>github</samp></a>
   </br>
-  <a href="https://twitter.com/xpeppy" target="_blank"><samp>twiter</samp></a>
+  <a href="https://twitter.com/xpeppy" target="_blank"><samp>twitter</samp></a>
   </br>
   </div>
   <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
